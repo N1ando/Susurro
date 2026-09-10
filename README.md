@@ -1,7 +1,7 @@
 # Susurro - local speech-to-text AI
 
 Multilingual transcription that runs entirely on your own computer using
-OpenAI's open-source Whisper model (via `faster-whisper`). No API key, no
+OpenAI's open-source Whisper model (via `faster-whisper`). no
 account, no cloud: after a one-time model download everything works offline
 and your audio never leaves your machine.
 
