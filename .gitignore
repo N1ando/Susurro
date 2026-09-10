@@ -34,4 +34,3 @@ graphify-out/
 # Training artifacts (models, checkpoints, tensorboard logs)
 training/out/
 .venv-train/
-.claude/
