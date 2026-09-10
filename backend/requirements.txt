@@ -1,0 +1,6 @@
+faster-whisper>=1.0.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-multipart>=0.0.9
+pypinyin>=0.53.0
+pykakasi>=2.2.1

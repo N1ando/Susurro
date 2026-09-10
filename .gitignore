@@ -1,0 +1,37 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / frontend build
+node_modules/
+dist/
+.vite/
+*.log
+
+# graphify knowledge graph - regenerate with: graphify update .
+graphify-out/
+
+# Secrets and local config
+.env
+.env.local
+.env.*.local
+
+# Editor and OS cruft
+.DS_Store
+.idea/
+*.swp
+
+# Scratch output
+*.txt.tmp
+
+# Training artifacts (models, checkpoints, tensorboard logs)
+training/out/
+.venv-train/
+.claude/
